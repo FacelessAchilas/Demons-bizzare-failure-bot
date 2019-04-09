@@ -1,0 +1,14 @@
+{
+  "name": "Demons Bizzare Failure bot",
+  "version": "1.0.0",
+  "description": "[Demons Failure] is a bot designed to make roleplay more convenient in the Demons Bizzare Failure roleplay server.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Just/in time#2400",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
