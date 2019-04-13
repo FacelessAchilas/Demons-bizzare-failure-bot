@@ -17,3 +17,4 @@ bot.on('ready', function(){
 });
 
 bot.login(process.env.BOT_TOKEN)
+//h
